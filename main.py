@@ -1,5 +1,3 @@
-'''Construir um jogo de adivinhação onde o usuário deve inserir o número esperado pelo programa. Sempre que o usuário inserir um número, deve-se informar se este número é maior ou menor que o número mágico e então perguntar um novo número. Se o usuário acertar o número mágico, uma mensagem de vitória deve ser apresentada e o programa então é encerrado.'''
-
 import random
 
 numero_magico = random.randint(1,100)
