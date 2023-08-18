@@ -26,8 +26,3 @@ while numero_usuario != numero_magico:
     break
 if numero_usuario == numero_magico:
   print (f"Parabens, {numero_magico} é o numero magico! ")
-
-
-""" acredito que 5 tentativas são suficientes para acertar o numero magico, pois da pra iniciar com o numero 50 e na primeira tentatica eliminar metade dos numeros e ir fazendo isso, claro que tem a sorte tambem"""
-  
-
